@@ -1,0 +1,36 @@
+{
+  "title": "Apple Store In-Store Pickup Restock & Telemetry Dataset (v1.0.0)",
+  "upload_type": "dataset",
+  "description": "An open CC BY 4.0 empirical dataset of 818 timestamped Apple Store in-store pickup restock transitions (810 closed events; P25 = 20.0s, median = 120.0s, P75 = 422.1s), local-timezone hourly distributions, and 5,259,265 polling check latency quantiles across 31 hub stores in the US, UK, China, and Japan. Exported from public read-only telemetry endpoints published by RestockCheck (https://restockcheck.com/service-report).",
+  "creators": [
+    {
+      "name": "RestockCheck Open Telemetry Project",
+      "affiliation": "RestockCheck (https://restockcheck.com)"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "Apple Store",
+    "retail inventory",
+    "in-store pickup",
+    "restock duration",
+    "telemetry",
+    "open data",
+    "CC BY 4.0"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://restockcheck.com/service-report",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://restockcheck.com/performance",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-technicalnote"
+    }
+  ]
+}

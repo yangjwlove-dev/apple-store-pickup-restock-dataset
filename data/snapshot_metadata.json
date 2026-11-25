@@ -1,0 +1,48 @@
+{
+  "dataset_name": "Apple Store In-Store Pickup Restock & Telemetry Dataset (CC BY 4.0)",
+  "version": "1.0.0",
+  "snapshot_generated_utc": "2026-11-25T05:54:14Z",
+  "license": "CC-BY-4.0",
+  "source_attribution": "RestockCheck (https://restockcheck.com/service-report)",
+  "counts": {
+    "monitored_hub_stores": 31,
+    "countries": [
+      "cn",
+      "gb",
+      "jp",
+      "us"
+    ],
+    "exported_restock_events": 818,
+    "closed_restock_events_with_duration": 810,
+    "events_by_country": {
+      "cn": 305,
+      "gb": 146,
+      "jp": 11,
+      "us": 356
+    },
+    "hourly_distribution_rows": 336,
+    "polling_tiers": 4,
+    "median_closed_duration_seconds": 120.0,
+    "p25_closed_duration_seconds": 20.0,
+    "p75_closed_duration_seconds": 422.1,
+    "alert_sent_latency": {
+      "sampleSize": 56,
+      "totalEvents": 144,
+      "p50Ms": 3430,
+      "p90Ms": 5693,
+      "p95Ms": 7589,
+      "minimumSamples": 50,
+      "window": {
+        "start": 1792994058787,
+        "end": 1795586058787
+      },
+      "scope": "all alert events; first email/push sent; invalid or >=10 minute latencies excluded; not device receipt"
+    }
+  },
+  "sha256": {
+    "data/stores.csv": "941e868477f9de2f36f67702b4a75d1d706f9993f2f32b20992140bc86ee6c3a",
+    "data/restock_events.csv": "b5cb48b083e1067cf711bf7485c04d32333c8364a8ec21fe556943ad80f53788",
+    "data/hourly_distribution.csv": "125286c754abff3343e75ff894a3ede34df5bc6046ac9add5730d0ba64bcfa8d",
+    "data/polling_tier_telemetry.csv": "3f70263a35b4d85780757a3d4cc6545e53b56d57db7da5b888a3c13f41531c85"
+  }
+}

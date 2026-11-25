@@ -1,0 +1,5 @@
+source,target_interval_seconds,first_measured_utc,total_checks,check_interval_sample_size,check_interval_p50_ms,check_interval_p90_ms,check_interval_p95_ms,observation_age_sample_size,observation_age_p50_ms,observation_age_p90_ms,observation_age_p95_ms
+watch,5,2026-11-15T08:17:11Z,423414,423400,6000,7000,10000,423414,7000,10000,15000
+evidence,60,2026-11-15T08:17:19Z,845320,842046,75000,75000,300000,845314,75000,90000,300000
+evidence,5,2026-11-15T10:54:42Z,3990466,3987428,6000,7000,8000,3990466,7000,10000,15000
+instant,0,2026-11-16T06:31:31Z,65,37,,,,65,3600000,,

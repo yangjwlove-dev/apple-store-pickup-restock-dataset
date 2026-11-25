@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset in research, data journalism, or analysis, please cite it using the metadata below."
+type: dataset
+title: "Apple Store In-Store Pickup Restock & Telemetry Dataset (v1.0.0)"
+version: "1.0.0"
+date-released: "2026-11-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/yangjwlove-dev/apple-store-pickup-restock-dataset"
+url: "https://restockcheck.com/service-report"
+authors:
+  - name: "RestockCheck Open Telemetry Project"
+    website: "https://restockcheck.com"
+keywords:
+  - "apple store"
+  - "retail inventory"
+  - "restock telemetry"
+  - "time series"
+  - "open data"
+  - "cc-by-4.0"
+abstract: "An open CC BY 4.0 empirical dataset of 818 observed Apple Store in-store pickup restock transitions, sellout window durations (median 120.0s across 810 closed events), local-hour distributions, and 5.26M polling check latency quantiles across 31 hub stores in the US, UK, China, and Japan."

@@ -1,0 +1,337 @@
+country,store_code,slug,store_name,city,timezone,local_hour,restock_count,store_sample_size
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,0,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,1,1,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,2,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,3,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,4,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,5,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,6,1,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,7,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,8,5,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,9,9,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,10,7,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,11,3,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,12,2,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,13,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,14,1,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,15,1,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,16,1,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,17,3,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,18,3,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,19,5,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,20,8,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,21,4,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,22,0,54
+cn,R645,chaoyang-joy-city-r645,Chaoyang Joy City,Beijing,Asia/Shanghai,23,0,54
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,0,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,1,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,2,1,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,3,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,4,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,5,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,6,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,7,0,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,8,2,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,9,10,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,10,20,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,11,6,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,12,4,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,13,7,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,14,6,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,15,3,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,16,3,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,17,3,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,18,2,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,19,1,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,20,9,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,21,3,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,22,6,88
+cn,R532,mixc-hangzhou-r532,MixC Hangzhou,Hangzhou,Asia/Shanghai,23,2,88
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,0,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,1,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,2,1,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,3,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,4,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,5,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,6,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,7,0,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,8,2,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,9,12,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,10,3,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,11,4,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,12,4,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,13,2,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,14,2,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,15,4,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,16,5,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,17,4,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,18,8,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,19,6,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,20,6,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,21,5,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,22,3,72
+cn,R320,sanlitun-r320,Sanlitun,Beijing,Asia/Shanghai,23,1,72
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,0,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,1,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,2,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,3,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,4,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,5,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,6,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,7,2,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,8,10,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,9,22,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,10,9,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,11,3,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,12,5,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,13,6,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,14,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,15,2,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,16,3,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,17,0,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,18,2,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,19,6,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,20,9,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,21,7,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,22,3,91
+cn,R471,west-lake-r471,West Lake,Hangzhou,Asia/Shanghai,23,2,91
+gb,R762,battersea-r762,Battersea,London,Europe/London,0,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,1,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,2,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,3,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,4,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,5,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,6,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,7,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,8,9,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,9,7,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,10,10,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,11,6,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,12,2,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,13,4,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,14,1,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,15,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,16,2,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,17,1,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,18,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,19,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,20,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,21,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,22,0,42
+gb,R762,battersea-r762,Battersea,London,Europe/London,23,0,42
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,0,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,1,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,2,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,3,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,4,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,5,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,6,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,7,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,8,12,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,9,8,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,10,3,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,11,1,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,12,2,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,13,1,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,14,1,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,15,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,16,5,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,17,2,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,18,7,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,19,4,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,20,3,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,21,0,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,22,6,55
+gb,R245,covent-garden-r245,Covent Garden,London,Europe/London,23,0,55
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,0,1,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,1,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,2,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,3,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,4,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,5,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,6,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,7,7,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,8,9,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,9,11,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,10,4,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,11,6,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,12,2,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,13,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,14,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,15,1,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,16,2,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,17,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,18,3,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,19,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,20,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,21,1,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,22,0,49
+gb,R092,regent-street-r092,Regent Street,London,Europe/London,23,2,49
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,0,2,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,1,1,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,2,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,3,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,4,1,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,5,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,6,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,7,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,8,59,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,9,68,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,10,18,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,11,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,12,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,13,1,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,14,2,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,15,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,16,1,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,17,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,18,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,19,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,20,1,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,21,0,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,22,1,155
+us,R095,fifth-avenue-r095,Fifth Avenue,New York,America/New_York,23,0,155
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,0,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,1,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,2,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,3,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,4,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,5,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,6,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,7,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,8,11,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,9,3,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,10,3,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,11,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,12,1,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,13,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,14,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,15,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,16,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,17,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,18,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,19,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,20,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,21,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,22,0,18
+us,R415,grand-central-r415,Grand Central,New York,America/New_York,23,0,18
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,0,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,1,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,2,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,3,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,4,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,5,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,6,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,7,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,8,1,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,9,14,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,10,9,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,11,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,12,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,13,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,14,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,15,3,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,16,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,17,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,18,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,19,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,20,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,21,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,22,0,27
+us,R035,michigan-avenue-r035,Michigan Avenue,Chicago,America/Chicago,23,0,27
+us,R032,soho-r032,SoHo,New York,America/New_York,0,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,1,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,2,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,3,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,4,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,5,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,6,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,7,2,93
+us,R032,soho-r032,SoHo,New York,America/New_York,8,29,93
+us,R032,soho-r032,SoHo,New York,America/New_York,9,58,93
+us,R032,soho-r032,SoHo,New York,America/New_York,10,1,93
+us,R032,soho-r032,SoHo,New York,America/New_York,11,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,12,3,93
+us,R032,soho-r032,SoHo,New York,America/New_York,13,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,14,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,15,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,16,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,17,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,18,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,19,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,20,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,21,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,22,0,93
+us,R032,soho-r032,SoHo,New York,America/New_York,23,0,93
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,0,1,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,1,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,2,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,3,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,4,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,5,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,6,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,7,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,8,2,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,9,6,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,10,2,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,11,5,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,12,6,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,13,2,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,14,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,15,1,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,16,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,17,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,18,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,19,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,20,1,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,21,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,22,0,30
+us,R050,the-grove-r050,The Grove,Los Angeles,America/Los_Angeles,23,4,30
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,0,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,1,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,2,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,3,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,4,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,5,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,6,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,7,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,8,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,9,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,10,6,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,11,8,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,12,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,13,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,14,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,15,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,16,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,17,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,18,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,19,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,20,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,21,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,22,0,14
+us,R075,union-square-r075,Union Square,San Francisco,America/Los_Angeles,23,0,14
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,0,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,1,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,2,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,3,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,4,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,5,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,6,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,7,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,8,5,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,9,2,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,10,3,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,11,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,12,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,13,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,14,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,15,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,16,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,17,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,18,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,19,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,20,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,21,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,22,0,10
+us,R582,upper-east-side-r582,Upper East Side,New York,America/New_York,23,0,10
