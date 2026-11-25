@@ -4,6 +4,14 @@ type: dataset
 title: "Apple Store In-Store Pickup Restock & Telemetry Dataset (v1.0.0)"
 version: "1.0.0"
 date-released: "2026-11-25"
+doi: "10.5281/zenodo.24523167"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24523167"
+    description: "Zenodo archival record (CERN)"
+  - type: doi
+    value: "10.7910/DVN/MZFTCB"
+    description: "Harvard Dataverse archival record"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/yangjwlove-dev/apple-store-pickup-restock-dataset"
 url: "https://restockcheck.com/service-report"

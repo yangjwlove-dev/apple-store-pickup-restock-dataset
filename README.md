@@ -17,7 +17,13 @@ pretty_name: Apple Store In-Store Pickup Restock & Telemetry Dataset
 
 # Apple Store In-Store Pickup Restock & Telemetry Dataset (v1.0.0)
 
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24523167.svg)](https://doi.org/10.5281/zenodo.24523167)
+[![Harvard Dataverse DOI](https://img.shields.io/badge/Harvard_Dataverse-10.7910%2FDVN%2FMZFTCB-A51C30)](https://doi.org/10.7910/DVN/MZFTCB)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](./LICENSE)
+
 An open, CC BY 4.0 empirical dataset of Apple Store in-store pickup restock transitions, sellout window durations, local-hour restock histograms, and polling latency quantiles across **31 hub Apple Stores** in four countries (`US`, `GB`, `CN`, `JP`), exported from public telemetry endpoints published by [RestockCheck](https://restockcheck.com/service-report).
+
+- **Archival DOIs**: Zenodo [`10.5281/zenodo.24523167`](https://zenodo.org/records/24523167) · Harvard Dataverse [`10.7910/DVN/MZFTCB`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MZFTCB) ([Collection](https://dataverse.harvard.edu/dataverse/restockcheck-telemetry))
 
 - **Snapshot timestamp**: `2026-11-25T05:54:14Z`
 - **Monitored hub stores**: 31 stores (`12 US`, `11 JP`, `5 CN`, `3 GB`)
